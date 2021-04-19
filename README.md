@@ -5,6 +5,3 @@
 <<<<<<< Updated upstream
  
  Essa linha eu adicionei no site! Que Impressionante!
-=======
- 
->>>>>>> Stashed changes
